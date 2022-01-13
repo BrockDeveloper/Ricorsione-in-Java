@@ -13,7 +13,7 @@ In questo esempio semplice (e stupido) troviamo tutti gli elementi della ricorsi
 3. EFFETTO BOOMERANG: la ricorsione è talvolta difficile da comprendere perchè non si capisce come sia possibile usare risultati che ancora non esistono, ebbene in realtà esistono, infatti quando le chiamate ricorsive finiscono tutto torna indietro (una serie di "return" uno dopo l'altro) che arrivano fino alla prima chiamata ricorsiva e quindi generano il risultato.
 
 ### CONDIZIONI
-Alcune volte, il codice non è cos' lineare come presentato, ma include anche dei controlli che indirizzano la ricorsione su rami diversi, ma per questi casi è meglio considerare i codici seguenti, la teoria non servirebbe a niente.
+Alcune volte, il codice non è così lineare come presentato, ma include anche dei controlli che indirizzano la ricorsione su rami diversi, ma per questi casi è meglio considerare i codici seguenti, la teoria non servirebbe a niente.
 
 
 ------------
