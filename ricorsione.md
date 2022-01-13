@@ -18,7 +18,7 @@ Alcune volte, il codice non è cos' lineare come presentato, ma include anche de
 
 ------------
 
-##ESERCIZI
+## ESERCIZI
 Di seguito i commenti a due esercizi che presentano due casi tipici: il primo in cui la ricorsione è praticamente già scritta, e il secondo in cui alla ricorsione va accostato un controllo per permettere il corretto svoglimento dell'algoritmo.
 In entrambi i casi, è presente il file di riferimento con il codice.
 
